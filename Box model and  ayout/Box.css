@@ -1,0 +1,13 @@
+.container
+{
+    display:grid;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+.box
+{
+    height:100px;
+    width:100px;
+    border:10px solid red;
+    margin:10px;
+}

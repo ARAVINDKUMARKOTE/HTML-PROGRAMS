@@ -1,0 +1,16 @@
+body{
+    background-color: blueviolet;
+    background-position-y: bottom;
+}
+img
+{
+    height: 480px;
+    width: 480px;
+
+    border-radius: 480px;
+    border: 480px solid;
+    border-top: 10px red solid;   
+    border-bottom: 10px blue solid;
+    border-left: 10px green solid;
+    border-right: 10px yellow solid;
+}
